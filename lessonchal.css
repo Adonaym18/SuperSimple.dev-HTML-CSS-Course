@@ -1,0 +1,107 @@
+/* body{
+  margin: 0; 
+  padding: 0; 
+} */
+
+.lesson1 {
+  background-color: lightblue;
+}
+
+.lesson2{
+  background-color: lightpink;
+}
+
+.twoa {
+  background-color: black;
+  color: white; 
+  padding: 10px 20px; 
+  border-style: none; 
+  cursor: pointer;
+
+
+}
+
+.twob {
+  background-color: rgb(255, 216, 20);
+  color: black; 
+  padding: 10px 40px; 
+  border-style: none; 
+  cursor: pointer;
+  border-radius: 20px; 
+  font-weight: 600; 
+
+}
+
+.twoc {
+  background-color: rgb(46, 164, 79);
+  color: white; 
+  padding: 10px 15px; 
+  border-style: none; 
+  cursor: pointer;
+  border-radius:5px; 
+  font-weight: 600; 
+}
+
+
+.twod {
+  background-color: rgb(121, 82, 179);
+  color: white; 
+  padding: 12px 18px; 
+  border-style: none; 
+  cursor: pointer;
+  border-radius:3px; 
+  font-weight: 600; 
+}
+
+.twod2 {
+  background-color:white;
+  color: grey; 
+  padding: 12px 18px; 
+  border: .5px solid rgb(108, 117, 125); 
+  cursor: pointer;
+  border-radius:3px; 
+
+  font-weight: 600; 
+}
+.twoe {
+  background-color: rgb(10,102,194);
+  color: white; 
+  padding: 12px 18px; 
+  border-style: none; 
+  cursor: pointer;
+  border-radius:20px; 
+  font-weight: 600; 
+}
+
+.twoe2 {
+  background-color:white;
+  color: rgb(10,102,194); 
+  padding: 10px 20px; 
+  border: .5px solid rgb(10,102,194); 
+  cursor: pointer;
+  border-radius:20px; 
+  font-weight: 600; 
+}
+
+.twof {
+  background-color: rgb(255, 216, 28);
+  color: black; 
+  padding: 8px 30px; 
+  border-style: none; 
+  cursor: pointer;
+  border-radius:20px; 
+  /* font-weight: 600;  */
+  font-size: 15px;
+  margin-right: 10px;
+}
+
+.twof2 {
+  background-color:rgb(255, 164, 28);
+  color: black;  
+  padding: 8px 40px; 
+  cursor: pointer;
+  border-radius:20px; 
+  border-style: none; 
+  font-size: 15px;
+  /* font-weight: 600;  */
+}
