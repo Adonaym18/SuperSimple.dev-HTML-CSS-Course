@@ -105,3 +105,168 @@
   font-size: 15px;
   /* font-weight: 600;  */
 }
+
+.lesson3 {
+  background-color: lightgreen; 
+
+}
+
+.twoa3 {
+  background-color: black;
+  color: white; 
+  padding: 10px 20px; 
+  border-style: none; 
+  cursor: pointer;
+  transition: .2s; 
+
+
+
+}
+
+.twoa3:hover {
+  opacity: .8;
+}
+
+.twob3 {
+  background-color: rgb(255, 216, 20);
+  color: black; 
+  padding: 10px 40px; 
+  border-style: none; 
+  cursor: pointer;
+  border-radius: 20px; 
+  font-weight: 600; 
+  transition: .2s; 
+
+}
+
+.twob3:hover{
+  background-color: rgb(255, 212, 20);
+}
+
+.twoc3 {
+  background-color: rgb(46, 164, 79);
+  color: white; 
+  padding: 10px 15px; 
+  border-style: none; 
+  cursor: pointer;
+  border-radius:5px; 
+  font-weight: 600; 
+  transition: .2s; 
+
+}
+
+.twoc3:hover {
+  box-shadow: -1px 5px 15px rgba(0, 0, 0, .15) ;
+}
+
+
+.twod3 {
+  background-color: rgb(121, 82, 179);
+  color: white; 
+  padding: 12px 18px; 
+  border-style: none; 
+  cursor: pointer;
+  border-radius:3px; 
+  font-weight: 600; 
+  transition: .2s; 
+
+}
+
+.twod3:hover {
+  background-color: rgb(107, 65, 170);
+}
+
+.twod23 {
+  background-color:white;
+  color: grey; 
+  padding: 12px 18px; 
+  border: .5px solid rgb(108, 117, 125); 
+  cursor: pointer;
+  border-radius:3px; 
+  font-weight: 600; 
+  transition: .2s; 
+
+}
+
+.twod23:hover{
+  color: white; 
+  background-color: grey; 
+}
+
+.twoe3 {
+  background-color: rgb(10,102,194);
+  color: white; 
+  padding: 12px 18px; 
+  border-style: none; 
+  cursor: pointer;
+  border-radius:20px; 
+  font-weight: 600; 
+  transition: .2s; 
+
+
+}
+
+.twoe3:hover {
+  background-color: rgb(6, 59, 113);
+}
+.twoe23 {
+  background-color:white;
+  color: rgb(10,102,194); 
+  padding: 10px 20px; 
+  border: .5px solid rgb(10,102,194); 
+  cursor: pointer;
+  border-radius:20px; 
+  font-weight: 600; 
+  transition: .2s; 
+}
+
+.twoe23:hover {
+  background-color: rgb(10,102,194);
+  color: white; 
+}
+
+/* challenge Exercise */
+
+.threeflinkh:hover {
+  color: rgb(204, 133, 0); 
+}
+
+.twof3 {
+  background-color: rgb(255, 216, 28);
+  color: black; 
+  padding: 8px 30px; 
+  border-style: none; 
+  cursor: pointer;
+  border-radius:20px; 
+  /* font-weight: 600;  */
+  font-size: 15px;
+  margin-right: 10px;
+}
+
+.twof3:hover{
+  background-color: rgb(244, 211, 24);
+}
+
+.twof3:active{
+  opacity: .5;
+}
+
+.twof23 {
+  background-color:rgb(255, 164, 28);
+  color: black;  
+  padding: 8px 40px; 
+  cursor: pointer;
+  border-radius:20px; 
+  border-style: none; 
+  font-size: 15px;
+  /* font-weight: 600;  */
+}
+
+
+.twof23:hover{
+  background-color: rgb(255, 134, 28);
+}
+
+.twof23:active{
+  opacity: .5;
+}
