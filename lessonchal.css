@@ -390,6 +390,49 @@
   font-size:20px;
 }
 
+/* Lesson #6  */
+
+.lesson6 {
+  background-color: rgb(220, 95, 116);
+}
+
+/* Lesson 7  */
+
+.lesson7{
+  background-color: orange;
+  padding: 5px;
+}
+
+.l7aflex{
+  display: flex;
+  background-color: white;
+  /* flex-direction: row; */
+  width: fit-content;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.l7aflex div {
+  /* flex: 1; */
+  margin-left: 20px;
+  margin-right: 20px; 
+  background-color: greenyellow;
+  padding: 10px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.l7aflex div img{
+  width: 100px;
+}
+
+.l7aflex div p{
+  font-size: 13px;
+}
 
 
 
