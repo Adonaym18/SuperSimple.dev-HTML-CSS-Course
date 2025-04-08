@@ -420,6 +420,7 @@
   background-color: greenyellow;
   padding: 10px;
   width: 150px;
+  height: 200px;
   display: flex;
   flex-direction: column;
   /* justify-content: center; */
@@ -427,13 +428,90 @@
 }
 
 .l7aflex div img{
-  width: 100px;
+  width: 150px; 
+  height: 100px;
+  object-fit: cover;
+  margin-top: 15px;
+  object-position: top;
 }
 
 .l7aflex div p{
   font-size: 13px;
 }
 
+#sevend {
+  border-radius: 2px;
+  padding: 8px;
+  border: 1px solid rgb(209, 209, 209);
+  border-radius: 4px;
+}
 
+#sevene {
+  border-radius: 2px;
+  padding: 8px;
+  border: none;
+  border-radius: 50px;
+  border-radius: 4px;
+  width: 350px;
+  box-shadow: -1px 5px 15px rgba(0, 0, 0, .15) ;
+}
 
+#sevenf{
+  width: 300px;
+  padding: 5px; 
+  border: 1.7px solid black;
+}
+
+.sevenfbtn{
+  padding:12px 15px;
+  background-color: rgb(49, 93, 205);
+  color: white;
+  border: none; 
+  border-radius: 20px; 
+  font-size:17px; 
+  width: 100%;
+  font-weight: normal;
+  cursor: pointer; 
+}
+
+.sevenfbtn:active{
+  opacity: .5;
+}
+
+.sevengh{
+  padding: 2px; 
+  display: flex;
+  width: 370px;
+}
+
+.sevengh div{
+  /* background-color: lightcoral; */
+  /* margin: 2px; */
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.sevengh img{
+  width: 70%;
+  border-radius: 30px;
+
+}
+
+.sevengh input{
+  border: none;
+  padding: 5px 0px;
+
+}
+
+.sevengh button{
+  border: none;
+  border-radius: 20px;
+  padding: 5px 15px;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(23, 151, 220);
+}
 
