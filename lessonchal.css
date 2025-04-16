@@ -3,6 +3,7 @@
   padding: 0; 
 } */
 
+
 .whitebox {
   background-color: white; 
   width: fit-content;
@@ -515,3 +516,110 @@
   background-color: rgb(23, 151, 220);
 }
 
+/* Lesson 8  */
+
+.lesson8 {
+  background-color: rgb(168, 128, 205);
+}
+
+.lesson8 input {
+  display: block; 
+  margin-bottom: 5px;
+}
+
+.lesson8bp {
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+
+.lesson8c img {
+  display: block; 
+  margin: auto;
+  width: 170px;
+  /* align-items: center; */
+}
+
+.lesson8c input {
+  margin: 3px 5px;
+  width: 400px;
+  border: none; 
+  border-radius: 20px;
+  box-shadow: -1px 5px 15px rgba(0, 0, 0, .3) ;
+  padding: 8px; 
+}
+
+.lesson8d input {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+
+}
+
+.lesson8d div{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.first-name {
+  width: 120px;
+  display: inline-block; 
+
+}
+
+.last-name {
+  width: 110px;
+  /* display: inline-block;  */
+
+}
+
+.email {
+  display: block;
+  width: 300px;
+  box-sizing: border-box;
+}
+
+.lesson8dbtn {
+  background-color: rgb(47, 127, 231);
+  color: white;
+  border: none;
+  width: 300px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+.lesson8einput {
+ border: none; 
+ background-color: rgb(242, 242, 242);
+ padding: 10px 5px; 
+ width: 300px; 
+}
+
+.lesson8ebtn {
+  padding: 8px 20px; 
+  border: none; 
+  border-radius: 0;
+  color: white; 
+  background-color: black; 
+  margin-right: 10px; 
+  margin-bottom: 10px; 
+}
+
+.lesson8ebtn2 {
+  padding: 8px 20px; 
+  border: none; 
+  border-radius: 0;
+  margin-bottom: 10px; 
+
+}
