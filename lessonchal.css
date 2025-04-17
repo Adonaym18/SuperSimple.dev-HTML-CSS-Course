@@ -7,6 +7,7 @@
 .whitebox {
   background-color: white; 
   width: fit-content;
+  margin: 5px;
 }
 
 .greenbtn {
@@ -621,5 +622,58 @@
   border: none; 
   border-radius: 0;
   margin-bottom: 10px; 
+}
 
+/* lesson9 */
+
+.lesson9 {
+  background-color: rgb(205, 157, 128);
+
+}
+
+.lesson9redbox {
+  width: 50px;
+  height: 50px;
+  background-color: red
+}
+
+.lesson9greenbox {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(48, 144, 25); 
+  border-radius: 25px;
+}
+
+.lesson9c {
+  padding: 10px; 
+  width: 300px;
+  border: .5px solid rgb(186, 182, 182);
+}
+
+.lesson9d{
+  font-family: Tahoma; 
+  padding: 10px; 
+  background-color: rgb(36, 35, 35);
+}
+
+.lesson9f{
+  box-shadow: -1px 5px 15px rgba(0, 0, 0, .3) ;
+  padding-bottom: 5px;
+
+}
+
+.lesson9f-img img{
+  width: 150px;
+}
+
+.lesson9btn{
+  margin-left: 5px;
+}
+
+.lesson9btn button{
+  padding: 8px 18px;
+  background-color: rgb(44, 124, 253);
+  color: white; 
+  border: none;
+  border-radius: 3px;
 }
